@@ -18,3 +18,4 @@ Asistente virtual que permite:
   
 - Administrar los datos bàsicos de los pacientes
 
+- Otros
